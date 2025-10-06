@@ -1,0 +1,16 @@
+brew "stow"
+brew "neovim"
+brew "tmux"
+brew "git"
+brew "fzf"
+brew "gsed"
+brew "gawk"
+brew "zsh-autosuggestions"
+brew "tig"
+brew "lazygit"
+brew "ripgrep"
+brew "pure"
+
+tap "homebrew/cask-fonts"
+
+cask "font-hack-nerd-font"
