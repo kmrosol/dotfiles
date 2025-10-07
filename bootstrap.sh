@@ -9,7 +9,7 @@ STOW_PACKAGES_PATH=$DOTFILES_DIR/packages
 # =============================
 if [ ! -d "$DOTFILES_DIR" ]; then
     echo "Cloning dotfiles repository..."
-    git clone git@github.com:kmrnpu/dotfiles.git "$DOTFILES_DIR"
+    git clone git@github.com:kmrosol/dotfiles.git "$DOTFILES_DIR"
 else
     echo "Skipping cloning dotfiles. It already exists."
 fi
